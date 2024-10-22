@@ -1,5 +1,8 @@
-## Hi there 👋
+## Olá! Eu sou o Rodrigo Guilherme
 
+- 💻 Hoje trabalho com front-end
+- 🌱 Se especializando em JavaScript
+- 🧒🏻 pronouns: ele/dele
 <!--
 **Rguilherme09/rguilherme09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
