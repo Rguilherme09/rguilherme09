@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rodrigo Guilherme, esdudante de programação e apaixonado por tecnologia!
+## Olá! Eu sou o Rodrigo Guilherme, estudante de programação e apaixonado por tecnologia!
 
 - 💻 Hoje trabalho com front-end
 - 🌱 Se especializando em JavaScript
