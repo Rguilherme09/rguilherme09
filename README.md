@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Rodrigo Guilherme, estudante de programação e apaixonado por tecnologia!
 
 - 💻 Hoje trabalho com front-end
-- 🌱 Se especializando em JavaScript
-- 🧒🏻 pronouns: ele/dele
+- 🌱 Aprendendo React
 
   <div>
     <a href="https://github.com/Rguilherme09">
@@ -13,7 +12,7 @@
   <div style="display: inline_block"><br>
     <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,github" />
   </a>
 </p>
   </div>
